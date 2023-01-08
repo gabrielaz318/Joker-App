@@ -4,4 +4,7 @@
     <string name="menu_joke_day">Piada do Dia</string>
     <string name="menu_about">Sobre</string>
     <string name="social">Social</string>
+    <string name="app_description">Os fatos de Chuck Norris são factóides satíricos sobre o artista marcial e ator Chuck Norris que se tornaram um fenômeno da Internet e, como resultado, se espalharam na cultura popular. Os \'fatos\' são normalmente afirmações hiperbólicas absurdas sobre a dureza, atitude, virilidade, sofisticação e masculinidade de Norris.</string>
+    <string name="app_website">https://api.chucknorris.io</string>
+    <string name="build_version">Versão (%1$s)</string>
 </resources>
