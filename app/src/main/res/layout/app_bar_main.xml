@@ -20,13 +20,4 @@
 
     <include layout="@layout/content_main" />
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fab"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@drawable/ic_baseline_refresh_24"
-        android:layout_width="wrap_content"
-        android:contentDescription="@null"
-        android:layout_height="wrap_content" />
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
